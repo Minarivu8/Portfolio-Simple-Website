@@ -32,6 +32,6 @@
   
 ## How to View
      You can access my portfolio website by visiting feel free to explore the content and get in touch!
-     Absolutely! Here are some suggested side headings and a more detailed breakdown for your portfolio pages:
+     
 
 Thank you for visiting!"
