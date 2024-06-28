@@ -31,7 +31,7 @@
    - "A simple form for visitors to send messages directly from the site."
   
 ## How to View
-     You can access my portfolio website by visiting feel free to explore the content and get in touch!
+     You can access my portfolio website by visiting  https://minarivu8.github.io/Portfolio-Simple-Website/ feel free to explore the content and get in touch!
      
 
 Thank you for visiting!"
